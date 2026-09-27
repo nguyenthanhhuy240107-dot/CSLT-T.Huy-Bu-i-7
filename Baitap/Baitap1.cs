@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Baitap
+namespace Baitap_1
 {
-    internal class Program
+    internal class Baitap1
     {
         //TRUNG BÌNH
         static double TinhTB(int[] arr)
